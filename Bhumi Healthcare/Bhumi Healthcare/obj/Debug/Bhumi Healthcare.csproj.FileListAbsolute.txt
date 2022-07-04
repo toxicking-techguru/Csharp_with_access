@@ -1,0 +1,16 @@
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\bin\Debug\Bhumi Healthcare.exe.config
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\bin\Debug\Bhumi Healthcare.exe
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\bin\Debug\Bhumi Healthcare.pdb
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi Healthcare.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi Healthcare.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Form1.resources
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi Healthcare.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi Healthcare.exe
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi Healthcare.pdb
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Form2.resources
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Form3.resources
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Form4.resources
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Form5.resources
+C:\Users\Kevin\source\repos\Bhumi Healthcare\Bhumi Healthcare\obj\Debug\Bhumi_Healthcare.Form6.resources
